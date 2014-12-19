@@ -1,0 +1,3 @@
+mynewproject
+============
+my readme file
